@@ -1,0 +1,1 @@
+CHROME_DATA_PATH = "user-data-dir=C:\\Users\\Ehsan\\AppData\\Local\\Google\\Chrome\\User Data\\Default"
